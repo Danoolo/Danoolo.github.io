@@ -1,0 +1,21 @@
+img.portada{
+	width: 400px;
+	height: 300px;
+}
+
+.estiloCVDanoolo{
+	background-color: lightblue;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+}
+
+.textoCentrado{
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+}
+
+.textoRoboto{
+	font-family: 'Roboto', sans-serif;
+	font-size: 12pt;
+	text-align: justify;
+}
